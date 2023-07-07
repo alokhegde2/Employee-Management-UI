@@ -1,0 +1,9 @@
+.addEmployee{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+
+.tableEmp{
+    margin: 1rem;
+}
